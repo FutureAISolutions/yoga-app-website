@@ -36,21 +36,21 @@ app.get("/add-data", async (req, res) => {
             {
                 name: "Bhujangasana",
                 category: "women",
-                image: "https://images.unsplash.com/photo-1599447421416-3414500d18a5",
+                image: "https://images.unsplash.com/photo-1599447421416-3414500d18a5?w=500",
                 description: "Fat loss yoga",
                 tips: "Do daily for 15 minutes to reduce belly fat"
             },
             {
                 name: "Power Yoga",
                 category: "men",
-                image: "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+                image: "https://images.unsplash.com/photo-1599447421416-3414500d18a5?w=500",
                 description: "Build strong body",
                 tips: "Improve strength and stamina"
             },
             {
                 name: "Tree Pose",
                 category: "kids",
-                image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+                image: "https://images.unsplash.com/photo-1599447421416-3414500d18a5?w=500",
                 description: "Increase height",
                 tips: "Improve balance and growth"
             }
